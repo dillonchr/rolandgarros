@@ -1,0 +1,107 @@
+{
+  "matches": [
+    {
+      "id": "SM120",
+      "url": "/en-us/matches/2022/SM120",
+      "matchData": {
+        "type": "SM",
+        "typeLabel": "Men’s Singles",
+        "round": null,
+        "roundLabel": "First Round",
+        "courtName": "Court Simonne-Mathieu",
+        "durationInMinutes": 219,
+        "endTimestamp": null,
+        "startingAt": null,
+        "dateSchedule": "20220524",
+        "notBefore": null,
+        "status": "IN_PROGRESS",
+        "statusLabel": "",
+        "notBeforeLabel": null,
+        "fromLabel": null,
+        "isNightSession": false,
+        "nightSessionLabel": null,
+        "daySessionLabel": null
+      },
+      "teamA": {
+        "players": [
+          {
+            "id": 21578,
+            "firstName": "Pablo",
+            "lastName": "CARRENO BUSTA",
+            "shortName": "P.CARRENO BUSTA",
+            "ranking": null,
+            "rankingDouble": null,
+            "country": "ESP",
+            "countryName": null,
+            "sex": "M",
+            "playerCardUrl": "/en-us/players/21578-p.carreno busta",
+            "imageMarkup": "<img src=\"https://images.prismic.io/fft-rg-site/d27445e7-da20-415c-8987-359e09b335ec_20220309_PJ_CarrenoB_UStaPablo_US.png?auto=compress,format&rect=0,0,1080,1080&w=400&h=400\" title=\"CARRENO BUSTA\">",
+            "imageUrl": "https://images.prismic.io/fft-rg-site/d27445e7-da20-415c-8987-359e09b335ec_20220309_PJ_CarrenoB_UStaPablo_US.png?auto=compress,format&rect=0,0,1080,1080&w=400&h=400",
+            "hasService": true,
+            "birth": null,
+            "info": null,
+            "palmaresData": null,
+            "acceptedEvents": null
+          }
+        ],
+        "sets": [
+          { "score": 4, "tieBreak": null, "winner": false, "inProgress": false },
+          { "score": 4, "tieBreak": null, "winner": false, "inProgress": false },
+          { "score": 6, "tieBreak": null, "winner": true, "inProgress": false },
+          { "score": 6, "tieBreak": null, "winner": true, "inProgress": false },
+          { "score": 4, "tieBreak": null, "winner": false, "inProgress": true }
+        ],
+        "winner": false,
+        "seed": 16,
+        "hasService": true,
+        "points": "30",
+        "endCause": "",
+        "entryStatus": null,
+        "winnerOfLabel": null,
+        "winnerOfPart1": null,
+        "winnerOfPart2": null
+      },
+      "teamB": {
+        "players": [
+          {
+            "id": 7774,
+            "firstName": "Gilles",
+            "lastName": "SIMON",
+            "shortName": "G.SIMON",
+            "ranking": null,
+            "rankingDouble": null,
+            "country": "FRA",
+            "countryName": null,
+            "sex": "M",
+            "playerCardUrl": "/en-us/players/7774-g.simon",
+            "imageMarkup": "<img src=\"https://images.prismic.io/fft-rg-site/0931d9d3-b4c9-4cd3-b38f-9df4ee98d81e_20200118_PJ_SimonGilles_US.png?auto=compress,format&rect=0,0,1080,1080&w=400&h=400\" title=\"SIMON\">",
+            "imageUrl": "https://images.prismic.io/fft-rg-site/0931d9d3-b4c9-4cd3-b38f-9df4ee98d81e_20200118_PJ_SimonGilles_US.png?auto=compress,format&rect=0,0,1080,1080&w=400&h=400",
+            "hasService": false,
+            "birth": null,
+            "info": null,
+            "palmaresData": null,
+            "acceptedEvents": null
+          }
+        ],
+        "sets": [
+          { "score": 6, "tieBreak": null, "winner": true, "inProgress": false },
+          { "score": 6, "tieBreak": null, "winner": true, "inProgress": false },
+          { "score": 4, "tieBreak": null, "winner": false, "inProgress": false },
+          { "score": 1, "tieBreak": null, "winner": false, "inProgress": false },
+          { "score": 3, "tieBreak": null, "winner": false, "inProgress": true }
+        ],
+        "winner": false,
+        "seed": null,
+        "hasService": false,
+        "points": "15",
+        "endCause": "",
+        "entryStatus": "W",
+        "winnerOfLabel": null,
+        "winnerOfPart1": null,
+        "winnerOfPart2": null
+      },
+      "umpire": { "firstName": "Eva", "lastName": "ASDERAKI MOORE", "shortName": "E.ASDERAKI MOORE", "country": "GRE" },
+      "showUmpire": false
+    }
+  ]
+}
